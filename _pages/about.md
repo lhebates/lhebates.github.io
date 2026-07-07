@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Leshui He, an associate professor of economics at Bates College, Maine, U.S. [(CV)](https://www.dropbox.com/s/357nhyot6qlc7vp/CV_LeshuiHe.pdf?dl=0)
+I am Leshui He, an associate professor of economics at Bates College, Maine, U.S. [(CV)](/files/CV_LeshuiHe.pdf)
 
 My research interests are:
 * economic behavior within and between organizations

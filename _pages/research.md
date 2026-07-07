@@ -25,18 +25,6 @@ author_profile: true
 * Classroom Peer Effects and Teachers: Evidence from Quasi-random Assignment in a Chinese Middle School, with Steven L. Ross, Working paper 2017-14, Human Capital and Economic Opportunity Global Working Group, the University of Chicago, 2017​
 
 
-## Work in Progress
-
-* Coordination, Conflict and Escalation in Organizations
-* Disintermediation in the Creative Markets, with Christian Peukert and Imke Reimers
-* The Heterogeneous Price Effects from the Exit of Brick-and-Mortar Retail, with Imke Reimers and Benjamin R. Shiller
-* ​Longer Lines, Higher Margins: Theory and Evidence on Location-based Competition, with Xiaoou Liu and Chen Zhu
-* Featured in the News: from the Attention Aura to Competing Complements, with Katherine Ennis (Bates class of 2020)
-* The Long-Term Effects of the 1918 Influenza Pandemic on Innovation in the United States, with Olivia McCulloch (Bates College, class of 2021)
-* The Impact of Legal Outsourcing on Companies’ H-1B Sponsorship, with Jiayang (Portia) Chen (Bates College, class of 2020)
-* How to Train Your Dragon Children: Cultural Belief and Learning Achievement
-
-
 <!-- To include blog style pages, add .md files to folder: _research  -->
 
 {% if author.googlescholar %}
