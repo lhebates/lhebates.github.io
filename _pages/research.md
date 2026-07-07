@@ -21,6 +21,7 @@ author_profile: true
 
 ## Working Papers
 
+* Local Newspapers and Local Events: Ownership, Market Structure, and Responsiveness, with Tin Cheuk (Tommy) Leung [(link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7037158)
 * Classroom Peer Effects and Teachers: Evidence from Quasi-random Assignment in a Chinese Middle School, with Steven L. Ross, Working paper 2017-14, Human Capital and Economic Opportunity Global Working Group, the University of Chicago, 2017​
 
 
